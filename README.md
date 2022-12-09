@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Low Level     |  Engineering   | https://github.com/MullahKer/alx-low_level_programming.git |
+| 2 |  Devops        |  Engineering   | https://github.com/MullahKer/alx-system_engineering-devops.git |
+| 3 |  High level    |  Software      | https://github.com/MullahKer/alx-higher_level_programming.git  |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
